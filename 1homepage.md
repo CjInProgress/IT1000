@@ -13,14 +13,12 @@ On every page, there will be a picture that I've taken.
 
 ### **Pictures**
 This is what I look like:
-![alt text][picture]
+
+![alt text](https://github.com/CjInProgress/IT1000/blob/main/IMG_1107.jpg)
 
 Here's a picture I've taken:
-!![alt text][picture2]
 
-[picture]: (https://github.com/CjInProgress/IT1000/blob/main/IMG_1107.jpg)
-
-[picture]: (https://images.squarespace-cdn.com/content/v1/5ea8f9fcd5913d4f94bbd59e/1601965590212-T23E9TNLP418ARQ3XSB3/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/085A0838.jpg?format=500w)
+![alt text](https://images.squarespace-cdn.com/content/v1/5ea8f9fcd5913d4f94bbd59e/1601965590212-T23E9TNLP418ARQ3XSB3/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/085A0838.jpg?format=500w)
 
 ### **Code**
 Random algorithm you should know... bubbleSort

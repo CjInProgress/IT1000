@@ -12,15 +12,12 @@ While working at the Alumni Center at The University of Missouri, I spoke with t
 
 ### **Pictures**
 This is a picture I've taken:
-![alt text][picture]
+
+![alt text](https://github.com/CjInProgress/IT1000/blob/main/085A0236.jpg)
 
 Here's a picture I've taken:
-![alt text][picture2]
 
-[picture]: (https://github.com/CjInProgress/IT1000/blob/main/085A0236.jpg)
-
-[picture2]: (https://images.squarespace-cdn.com/content/v1/5ea8f9fcd5913d4f94bbd59e/1599430357148-VDL50YGL0XI6GWQH8KNT/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/085A1895.jpg?format=500w)
-)
+![alt text](https://images.squarespace-cdn.com/content/v1/5ea8f9fcd5913d4f94bbd59e/1599430357148-VDL50YGL0XI6GWQH8KNT/ke17ZwdGBToddI8pDm48kMXRibDYMhUiookWqwUxEZ97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-Jww_XBra4mrrAHD6FMA3bNKOBm5vyMDUBjVQdcIrt03OQ/085A1895.jpg?format=500w)
 
 ### **Code**
 Random algorithm you should know... selectioneSort
