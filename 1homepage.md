@@ -59,8 +59,8 @@ void printArray(int arr[], int size)
 ### **Other Pages**
 You can visit the other pages by clicking one of the links:
 1. **Homepage**
-2. [Work Experience]()
-3. [My Business]()
-4. [How I Spend My Timw]()
-5. [Miscellaneous]()
+2. [Work Experience](https://github.com/CjInProgress/IT1000/blob/main/1homepage.md)
+3. [My Business](https://github.com/CjInProgress/IT1000/blob/main/2WorkExperience.md)
+4. [How I Spend My Timw](https://github.com/CjInProgress/IT1000/blob/main/3mybusiness.md)
+5. [Miscellaneous](https://github.com/CjInProgress/IT1000/blob/main/4Leisure.md)
 6. [My Photography Page](cjharrisphotgraphy.com)
