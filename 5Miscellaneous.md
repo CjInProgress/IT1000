@@ -12,10 +12,13 @@ I love the Tennessee Titans.
 
 ### **Pictures**
 This is a picture I've taken:
-[![Picture](Pic)](https://github.com/CjInProgress/IT1000/blob/main/085A1111.jpg)
+
+![alt text](https://github.com/CjInProgress/IT1000/blob/main/085A1111.jpg)
 
 Here's a picture I've taken:
-[![Picture](Pic)](https://images.squarespace-cdn.com/content/v1/5ea8f9fcd5913d4f94bbd59e/1607027404740-YTBECM0BBB559T31UCC0/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/085A6191.jpg?format=500w)
+
+![alt text](https://images.squarespace-cdn.com/content/v1/5ea8f9fcd5913d4f94bbd59e/1607027404740-YTBECM0BBB559T31UCC0/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/085A6191.jpg?format=500w)
+
 
 ### **Code**
 This is my code that prints a 2D array...
@@ -47,5 +50,5 @@ You can visit the other pages by clicking one of the links:
 2. [Work Experience](https://github.com/CjInProgress/IT1000/blob/main/2WorkExperience.md)
 3. [My Business](https://github.com/CjInProgress/IT1000/blob/main/3mybusiness.md)
 4. [How I Spend My Time](https://github.com/CjInProgress/IT1000/blob/main/4Leisure.md)
-5. **Miscellaneous** https://github.com/CjInProgress/IT1000/blob/main/5Miscellaneous.md
+5. **Miscellaneous**
 6. [My Photography Page](cjharrisphotgraphy.com)
