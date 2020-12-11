@@ -52,7 +52,7 @@ void selectionSort(int arr[], int n)
 You can visit the other pages by clicking one of the links:
 1. [Homepage](https://github.com/CjInProgress/IT1000/blob/main/1homepage.md)
 2. **Work Experience**
-3. [My Business](https://github.com/CjInProgress/IT1000/blob/main/3mybusiness.md)
+3. [My Business](https://github.com/CjInProgress/IT1000/blob/blob/3mybusiness.md)
 4. [How I Spend My Timw](https://github.com/CjInProgress/IT1000/blob/main/4Leisure.md)
 5. [Miscellaneous](https://github.com/CjInProgress/IT1000/blob/main/5Miscellaneous.md)
 6. [My Photography Page](cjharrisphotgraphy.com)
